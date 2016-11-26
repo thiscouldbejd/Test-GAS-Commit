@@ -1,0 +1,15 @@
+<style>
+
+  .foo {
+    color: black;
+  }
+  
+  .bar {
+    color: red;
+  }
+  
+  #foo.bar {
+    color: green;
+  }
+  
+</style>
