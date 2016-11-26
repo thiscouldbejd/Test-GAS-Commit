@@ -1,3 +1,4 @@
 var foo = function(bar) {};
 var foo2 = function(bar) {};
 var foo3 = function(bar) {};
+var foo4 = function(bar) {};
