@@ -1,0 +1,3 @@
+var foo = function(bar) {};
+
+var footoo = function(go_to_the_bar) {};
